@@ -1,4 +1,4 @@
-# Ciao, sono Luca 👋
+# Ciao, sono Luca
 
 Studente del corso **Web Solutions Architect** presso ITS ICT Piemonte (Torino) — biennio 2025/2027.
 
@@ -18,19 +18,17 @@ Questo GitHub è il mio taccuino pubblico: piccoli progetti, esercizi e esperime
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-## 🔜 In arrivo nel 2° anno
+##  In arrivo nel 2° anno
 
 `Python` · `Machine Learning` · `MongoDB` · `Docker` · `Kubernetes` · `Prompt Engineering`
 
 ---
 
-## 📂 Cosa trovi qui
+##  Cosa trovi qui
 
 I repo in questo profilo sono esercizi e progetti del corso — non librerie pronte per la produzione.
 L'obiettivo è imparare facendo e tenere traccia dei progressi.
 
 ---
 
-## 📫 Contatti
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TUO_PROFILO)
+## Contatti
