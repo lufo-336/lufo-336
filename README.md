@@ -1,4 +1,4 @@
-# Ehilà, sono LUFO.
+# Ehilà, sono LUca FOglia.
 
 Studente del corso **Web Solutions Architect** presso ITS ICT Piemonte (Torino) — biennio 2025/2027.
 
