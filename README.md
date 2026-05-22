@@ -2,11 +2,11 @@
 
 Studente del corso **Web Solutions Architect** presso ITS ICT Piemonte (Torino) — biennio 2025/2027.
 
-Questo GitHub è il mio taccuino pubblico: piccoli progetti, esercizi e esperimenti che faccio mentre imparo. Niente di rifinito, tutto di reale.
+Questo GitHub è il mio taccuino pubblico: piccoli progetti, esercizi e esperimenti che faccio mentre imparo. Niente di rifinito, tutto di reale. Ovviamente sto vibe-codando di brutto.
 
 ---
 
-## 🛠️ Cosa sto studiando ora
+## Cosa sto studiando ora
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
