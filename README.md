@@ -1,4 +1,4 @@
-# Ciao, sono Luca
+# Ehilà, sono LUFO.
 
 Studente del corso **Web Solutions Architect** presso ITS ICT Piemonte (Torino) — biennio 2025/2027.
 
